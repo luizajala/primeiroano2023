@@ -9,14 +9,14 @@ h1 {
 }
 
 h2{
-    color:rgb(0, 0, 0);
+    color:deeppink;
     font-size: 40px
     text-aling: center; 
 }
 
 
 p{
-    color:deeppink;
+    color:rgb(0, 0, 0);
     font-size: 30px;
     text-aling: justify;
 }
