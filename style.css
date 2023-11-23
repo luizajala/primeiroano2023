@@ -3,9 +3,9 @@ body {
     background-image:linear-gradient(#FFFFFF,#F7F7F7,#FF2584,#FF2372,#EC3786)}
 }
 
-header{
+header {
     background-color: rgb(163, 0, 0);
-    border-bottom: 2px solid #000000;
+    border-bottom: 5px solid #000000;
 }
 
 
