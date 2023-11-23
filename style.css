@@ -2,6 +2,13 @@ body {
     font-size: sans-serif;
     background-image:linear-gradient(#FFFFFF,#F7F7F7,#FF2584,#FF2372,#EC3786)}
 }
+
+header{
+    background-color: gainsboro;
+    border-bottom: ;
+}
+
+
 h1 {
     color:deeppink;
     font-size: 50px
